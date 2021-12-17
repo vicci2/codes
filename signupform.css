@@ -1,0 +1,11 @@
+body{background-color:brown ;}
+form{padding: 10pt; width: 80%; margin:auto; background-color: seashell;border-radius: 10pt;}
+input{display: block;border-radius: 10pt; padding: 10pt; margin: auto; align-self: center; width:50%}
+#stbutton{ width: 75%;  color: rgba(176, 238, 6, 0.932);background-color: tomato;padding: 9pt;border-radius: 5pt;
+          margin-top: 10pt;}
+#btn1{text-align:center;width: 56%; padding: 10pt; margin-bottom: 20pt;background-color: blue;color: crimson; }
+input::placeholder{color: purple;}
+p{color: aqua;}
+#spaner{color: rgb(24, 235, 17);}
+#p1{color: rgb(127, 255, 138);font-size: 0.5%;}
+#span1{color: gold;}

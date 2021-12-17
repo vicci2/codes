@@ -1,0 +1,16 @@
+ h1 {color: blue;}
+h4 {color: rgb(0, 38, 255); font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+#p1{color: darkred; font-size: smaller;}
+#p2{color: rgb(127, 0, 211); padding: 30px;}
+#span1{color: gold;}
+#span2{color:coral}
+#span3{color: gold;}
+#p5{background-color: dimgray; border-color: indigo;}
+#p9{color: rgb(255, 94, 0);}
+#sup{color: rgb(255, 38, 0); background-color: rgb(14, 10, 223);}
+#login{color: blue; background-color: rgb(223, 219, 10);}
+#bq{color: indigo;}
+table,th,td{border: 1px solid black; border-radius: collapse;}
+tr:hover{background-color: gold;}
+th,td{background-color: rgb(113, 156, 236); }
+td{border-style: solid;}

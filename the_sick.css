@@ -1,0 +1,10 @@
+#btn1{border-radius: 10pt;padding: 1pt;}
+#btn2{border-radius: 100%; padding: auto;}
+#btn3{width: 35pt;height:35pt;color: darkorange; font-weight: 300pt; font-family: 'Times New Roman', Times, serif; padding: auto;border-radius: 100%;}
+h1{color: blue;}
+#span1{color: crimson;}
+body{background-image: url(./bg-desktop.svg);background-color: lightslategrey;}
+#form1{align-self:auto;}
+#cont{display: flex;padding-left:2%;}
+#left{width: 30%;}
+#right{width: 60%;margin-top: 10%;}
