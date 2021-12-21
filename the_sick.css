@@ -4,7 +4,7 @@
 h1{color: blue;}
 #span1{color: crimson;}
 body{background-image: url(./bg-desktop.svg);background-color: lightslategrey;}
-#form1{align-self:auto;}
 #cont{display: flex;padding-left:2%;}
-#left{width: 30%;}
-#right{width: 60%;margin-top: 10%;}
+#left{width: 100%;}
+#right{width: 90%;margin-top: 10%;padding-left: 10%;padding-right: 10%;}
+td:hover{border-color: mediumorchid;}

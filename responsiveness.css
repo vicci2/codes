@@ -1,0 +1,52 @@
+.container{max-width: 80%;margin: auto;}
+.upper{text-align: center;max-width: 80%;width: 100%;margin: auto;}
+#lighter{font-weight: lighter;color: rgb(230, 224, 224);}
+.upper p{width: 80%;margin: auto;}
+h1{line-height: 15px ;opacity: 90%;}
+h3{color: darkgray;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+p{opacity: 40%;}
+.lower{padding: 10%;margin-bottom: 20%; margin-top:3%;display:flex;flex-wrap: wrap;}
+.lower h4{margin-bottom: -10px;}
+#card{width: 200px;border-radius: 4.5%;margin-bottom: 10px;box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;}
+.leftcard,.rightcard{transform: translateY(50%);}
+.topcard{width:40%;border-top: rgb(7, 7, 228) 3px solid;transform: translateX(99%);}
+.leftcard{width: 40%;margin-right: -10%; border-top: darkred 3px solid;}
+.rightcard{width: 40%;margin-left: 10%; border-top: rgb(52, 223, 9) 3px solid;}
+.bottomcard{width: 40%;border-top: rgb(0, 95, 139) 3px solid;transform: translateY(150%);}
+.leftcard img,.rightcard img,.bottomcard img{display: block;margin-left: 60%;}
+.topcard img{display: block;margin-left: 70%;width: 30%;}
+#smlinks{color: darkgoldenrod;font-size: 105%;font-family: 'Courier New', Courier, monospace;}
+/* .upper-section{text-align: center;}
+#light-headder{font-weight: 100;}
+.container{max-width: 90%;margin: auto;}
+.upper-section p{width: 80%;margin: auto;}
+
+h1{line-height: 15px;opacity: 70%;}
+p{opacity: 40%;}
+.card{
+
+    width: 200px;
+    border-top: blue 2px solid;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-left: 20px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.lower-section{
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card img{
+  display: block;
+  margin-left: 60%;
+
+}
+h4{
+    margin-bottom: -10px;
+}
+#left, #right{
+    transform:translateY(50%);
+} */
